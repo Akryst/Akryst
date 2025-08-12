@@ -2,7 +2,7 @@
 
 ## About Me
 
-**Silly Gamer** who loves the perfect combo of **music, games, coding, and sleep** 😊
+**Silly VRChat user** who loves the perfect combo of **music, games, coding, and sleep**
 
 - Music lover
 - JavaScript developer with a love for Node.js
