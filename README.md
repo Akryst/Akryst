@@ -16,10 +16,6 @@
 
 **Nebloom SMP** - *A thriving Minecraft survival multiplayer community.* [Join Discord](http://discord.gg/mNcvtWCcXQ)
 
-<div align="center">
-    <i>"music. connect. [people]."</i>
-</div>
-
 ## Tech Stack
 
 - 🎨 Frontend: React, Tailwind CSS, TypeScript
